@@ -12,6 +12,8 @@ import android.widget.CompoundButton;
 import android.widget.Switch;
 import android.widget.Toast;
 
+import com.pitb.mypermissions.R;
+
 import permission.PermissionManager;
 
 import static com.application.test.permissionsmanager.MainActivity.CALL_PHONE_PERMISSION_CODE;

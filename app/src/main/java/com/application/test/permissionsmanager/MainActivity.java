@@ -21,6 +21,8 @@ import android.widget.Button;
 import android.widget.Switch;
 import android.widget.Toast;
 
+import com.pitb.mypermissions.R;
+
 import java.util.List;
 
 import constants.PermissionRequestObject;
